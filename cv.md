@@ -5,7 +5,7 @@
 - E-mail: ViktarRudzenia@gmail.com
 - Phone number: +375(33)390-13-57
 - LinkedIn account: [ViktarRudzenia](https://www.linkedin.com/in/viktarrudzenia/)
-- Telegram username: @ViktarRudzenia
+- Telegram: [@ViktarRudzenia](https://t.me/ViktarRudzenia)
 
 ## **Skills**
 
