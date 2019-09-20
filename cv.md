@@ -9,11 +9,10 @@
 
 ## **Skills**
 
-## **Experience**
+- ### HTML5, CSS3/SASS, Javascript(ES6+), Node.js, React.js, Redux.
 
-### My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
-
-My completed codewars challenges you can find [here](https://github.com/Viktarrudzenia/codewars "Completed CodeWars Challenges")
+- ### My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia).
+  My completed codewars challenges you can find [here](https://github.com/Viktarrudzenia/codewars "Completed CodeWars Challenges")
 
 ## **Code example**
 
@@ -84,6 +83,34 @@ function alphabetWar(fight) {
 }
 ```
 
+## **Work Experience**
+
+### Main Data Processing Centre under the state association "Belarusian Railway":
+
+##### 1\. **Position**: Software engineer (31.01.2016 - 31.07.2016).
+
+##### 2\. **Position**: Systems Engineer (31.01.2016 - 31.07.2016).
+
+##### 3\. **Position**: Systems Engineer 2 category. (31.01.2016 - 31.07.2016).
+
 ## **Education**
+
+### Belarusian State University of Informatics and Radioelectronics [bsuir.by](https://www.bsuir.by/ "BSUIR.by")
+
+#### 1\. Bachelour degree
+
+Faculty of Computer-Aided Design
+Department: Information and Computer-Aided Systems Design
+Education form: Full-time
+Degree: Graduate (bachelor)
+Graduation year: 2016
+
+#### 2\. Master degree
+
+Faculty of Computer-Aided Design
+Department: Information and Computer-Aided Systems Design
+Education form: Distant
+Degree: Graduate (master)
+Graduation year: 2019
 
 ## **English**
