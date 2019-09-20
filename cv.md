@@ -91,7 +91,7 @@ function alphabetWar(fight) {
 
 2. **Position**: Systems Engineer (31.07.2016 - 31.01.2019).
 
-3. **Position**: Systems Engineer 2 category. (31.01.2019 - till now).
+3. **Position**: Systems Engineer 2 category (31.01.2019 - till now).
 
 ## **Education**
 
@@ -122,3 +122,15 @@ function alphabetWar(fight) {
 - **Graduation year:** 2019
 
 ## **English**
+
+- Started learning English from the 1st grade at school
+
+- From the 5th grade I was in the advanced English group at school
+
+- During my study at university (**bachelor's degree**) I had a 2-year English course
+
+- During my study at university (**master's degree**) I had a 1-year English course at the end of which I successfully passed the candidate exam
+
+- Now I can easily read any documentation, watch videos and briefly talk in English with somebody. But without any practice in my current job my English level: **B1 (Intermediate)**
+
+- Daily I read at least 1 article at [medium.com](https://medium.com/ "medium.com") related to programming (HTML, CSS, JS, React, Redux)
