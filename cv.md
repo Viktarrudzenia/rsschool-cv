@@ -9,9 +9,9 @@
 
 ## **Skills**
 
-- ### HTML5, CSS3/SASS, Javascript(ES6+), Node.js, React.js, Redux.
+- ### HTML5, CSS3/SASS, Javascript(ES6+), Node.js, React.js, Redux
 
-- ### My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia).
+- ### My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
   My completed codewars challenges you can find [here](https://github.com/Viktarrudzenia/codewars "Completed CodeWars Challenges")
 
 ## **Code example**
@@ -85,13 +85,13 @@ function alphabetWar(fight) {
 
 ## **Work Experience**
 
-### Main Data Processing Centre under the state association "Belarusian Railway":
+### Main Data Processing Centre under the state association "Belarusian Railway"
 
-1. #### **Position**: Software engineer (31.01.2016 - 31.07.2016).
+1. **Position**: Software engineer (31.01.2016 - 31.07.2016).
 
-2. #### **Position**: Systems Engineer (31.07.2016 - 31.01.2019).
+2. **Position**: Systems Engineer (31.07.2016 - 31.01.2019).
 
-3. #### **Position**: Systems Engineer 2 category. (31.01.2019 - till now).
+3. **Position**: Systems Engineer 2 category. (31.01.2019 - till now).
 
 ## **Education**
 
