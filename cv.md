@@ -9,9 +9,21 @@
 
 ## **Skills**
 
-- ### HTML5, CSS3/SASS, Javascript(ES6+), Node.js, React.js, Redux
+- HTML5, CSS3/SASS, Javascript(ES6+), Git, Node.js, React.js, Redux
 
-- ### My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
+- My profile with completed courses on [codecademy.com](https://www.codecademy.com/profiles/ViktarRudzenia "codecademy.com/profiles/ViktarRudzenia"). Courses that I have completed:
+
+  - [Introduction to HTML](https://www.codecademy.com/learn/learn-html "Introduction to HTML")
+  - [Learn CSS](https://www.codecademy.com/learn/learn-css "Learn CSS")
+  - [Learn Git](https://www.codecademy.com/learn/learn-git "Learn Git")
+  - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript "Introduction to JavaScript")
+  - [Asynchronous JavaScript](https://www.codecademy.com/learn/asynchronous-javascript "Asynchronous JavaScript")
+  - [Building Interactive JavaScript Websites](https://www.codecademy.com/learn/build-interactive-websites "Building Interactive JavaScript Websites")
+  - [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design "Learn Responsive Design")
+  - [Learn Navigation Design](https://www.codecademy.com/learn/learn-navigation-design "Learn Navigation Design")
+  - [Deploy a Website](https://www.codecademy.com/learn/deploy-a-website "Deploy a Website")
+
+- My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
   My completed codewars challenges you can find [here](https://github.com/Viktarrudzenia/codewars "Completed CodeWars Challenges")
 
 ## **Code example**
