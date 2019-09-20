@@ -146,6 +146,6 @@ function alphabetWar(fight) {
 
 - During my study at university (**master's degree**) I had a 1-year English course at the end of which I successfully passed the candidate exam
 
-- Now I can easily read any documentation, watch videos and briefly talk in English with somebody. But without any practice in my current job my English level: **B1 (Intermediate)**
+- Now I can easily read any documentation, watch videos and briefly talk in English with somebody. But without any practice at my current job my English level: **B1 (Intermediate)**
 
 - Daily I read at least 1 article at [medium.com](https://medium.com/ "medium.com") related to programming (HTML, CSS, JS, React, Redux)
