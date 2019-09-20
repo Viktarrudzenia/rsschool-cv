@@ -100,17 +100,25 @@ function alphabetWar(fight) {
 #### 1\. Bachelour degree
 
 Faculty of Computer-Aided Design
+
 Department: Information and Computer-Aided Systems Design
+
 Education form: Full-time
+
 Degree: Graduate (bachelor)
+
 Graduation year: 2016
 
 #### 2\. Master degree
 
 Faculty of Computer-Aided Design
+
 Department: Information and Computer-Aided Systems Design
+
 Education form: Distant
+
 Degree: Graduate (master)
+
 Graduation year: 2019
 
 ## **English**
