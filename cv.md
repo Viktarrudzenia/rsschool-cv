@@ -11,7 +11,9 @@
 
 - HTML5, CSS3/SASS, Javascript(ES6+), Git, Node.js, React.js, Redux
 
-- My profile with completed courses on [codecademy.com](https://www.codecademy.com/profiles/ViktarRudzenia "codecademy.com/profiles/ViktarRudzenia"). Courses that I have completed:
+- My profile with completed courses: [codecademy.com](https://www.codecademy.com/profiles/ViktarRudzenia "codecademy.com/profiles/ViktarRudzenia")
+
+    Courses that I have completed:
 
   - [Introduction to HTML](https://www.codecademy.com/learn/learn-html "Introduction to HTML")
   - [Learn CSS](https://www.codecademy.com/learn/learn-css "Learn CSS")
@@ -24,7 +26,8 @@
   - [Deploy a Website](https://www.codecademy.com/learn/deploy-a-website "Deploy a Website")
 
 - My profile in [codewars.com](https://www.codewars.com/users/Viktarrudzenia) : [![CodeWars](https://www.codewars.com/users/Viktarrudzenia/badges/large)](https://www.codewars.com/users/Viktarrudzenia)
-  My completed codewars challenges you can find [here](https://github.com/Viktarrudzenia/codewars "Completed CodeWars Challenges")
+
+    My completed codewars challenges you can find [here](https://github.com/Viktarrudzenia/codewars "Completed CodeWars Challenges")
 
 ## **Code example**
 
