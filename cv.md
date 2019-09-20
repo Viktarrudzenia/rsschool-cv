@@ -102,7 +102,7 @@ function alphabetWar(fight) {
 
 ### Main Data Processing Centre under the state association "Belarusian Railway"
 
-1. **Position**: Software engineer (31.01.2016 - 31.07.2016).
+1. **Position**: Software Engineer (31.01.2016 - 31.07.2016).
 
 2. **Position**: Systems Engineer (31.07.2016 - 31.01.2019).
 
