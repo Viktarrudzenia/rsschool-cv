@@ -11,8 +11,8 @@ a {
 .wrapper {
   background-color: aliceblue;
   display: grid;
-  grid-template: 10vh auto 5vh / 1fr;
-  grid-gap: 1vh;
+  grid-template: 70px auto 50px / 1fr;
+  grid-gap: 5px;
   max-width: 1024px;
   min-width: 600px;
   margin: 0 auto;
@@ -55,7 +55,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   justify-items: center;
-  margin: 0 2vh;
+  margin: 0 10px;
 }
 
 .contacts__info {
@@ -75,11 +75,9 @@ header {
 /* SKILLS */
 
 .skills {
-  display: inline-grid;
-  grid-template: 10vh repeat(4, 1fr) / 5vh auto 5vh;
+  display: grid;
+  grid-template: 60px repeat(5, 1fr) / 40px auto 40px;
   height: 500px;
-  grid-gap: 1vh;
-  margin-top: 2vh;
   font-size: 1.2rem;
 }
 
@@ -105,33 +103,49 @@ header {
 }
 
 .skills__codecademy {
-  grid-row: 3 / 4;
+  grid-row: 4 / 5;
   grid-column: 2 / 3;
 }
 
 .skills_codecademy-profile {
-  margin-bottom: 2vh;
+  display: flex;
+  align-items: center;
+  grid-row: 3 / 4;
+  grid-column: 2 / 3;
 }
 
 .skills__codecademy-list {
   display: flex;
-  flex-flow: row wrap;
-  font-size: 2rem;
+  flex-direction: row;
+  font-size: 1.3rem;
+  justify-content: space-between;
+}
+
+.skills__codecademy-list-a,
+.skills__codecademy-list-b,
+.skills__codecademy-list-c {
+  display: flex;
+  flex-direction: column;
 }
 
 .skills__codecademy-logo {
-  height: 5vh;
+  height: 25px;
+  margin: 0 5px;
 }
 
 .skills__codewarsprofile {
-  grid-row: 4 / 5;
+  grid-row: 5 / 6;
   grid-column: 2 / 3;
-  justify-self: start;
-  align-self: center;
+  display: flex;
+  align-items: center;
+}
+
+.skills__codewarsprofile-logo {
+  margin-left: 5px;
 }
 
 .skills__codewarsgithub {
-  grid-row: 5 / 6;
+  grid-row: 6 / 7;
   grid-column: 2 / 3;
   justify-self: start;
   align-self: center;
