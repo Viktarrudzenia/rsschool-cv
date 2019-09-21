@@ -5,7 +5,7 @@
   border: 1px solid red;
 }
 
-body {
+.wrapper {
   background-color: aliceblue;
   display: grid;
   grid-template: 10vh 80vh 10vh / 1fr;
@@ -14,13 +14,19 @@ body {
   margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   display: grid;
 }
-nav {
+
+.header {
   display: grid;
   grid-template: 1fr / 40% 1fr;
 }
+
 .header__navigation {
   display: grid;
   grid-template: 1fr / repeat(6, 1fr);
@@ -31,28 +37,29 @@ nav {
   border: 4px solid green;
 }
 
-li {
-}
-
-main {
-}
-
-footer {
-}
-
-a {
-  text-decoration: none;
-}
-
 .header__logo {
-  margin: 0 auto;
-  align-self: center;
   font-size: 24px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
 }
 
 .contacts {
-  display: grid;
-  grid-template: 1fr / 1fr 1fr;
+  display: flex;
+  justify-content: space-evenly;
   justify-items: center;
-  align-items: center;
+}
+
+.contacts__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.contacts__info__name {
+  font-size: 2rem;
+}
+
+.contacts__info__data {
+  font-size: 1.5rem;
 }
